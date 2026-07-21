@@ -23,7 +23,7 @@ This project currently uses in-memory mock data seeded on startup (see `MainForm
 </p>
 
 <p align="center">
-  <img src="resource-logistics-screenshot.png" alt="Resource Logistics width=900>
+  <img src="resource-logistics-screenshot.png" alt="Resource Logistics" width=900>
 </p>
 
 ## Features
