@@ -14,6 +14,10 @@ The application is built with **C++/CLI** targeting the **.NET Windows Forms** U
 
 This project currently uses in-memory mock data seeded on startup (see `MainForm_Load`) and is intended as a UI prototype / foundation for a full DRRM information system.
 
+<p align="center">
+  <img src="live-dashboard-screenshot.png" alt="GUI Screenshot" width=900>
+</p>
+
 ## Features
 
 - 🚨 **Alert Status Panel** — color-coded (red/orange/green) based on the selected alert level.
