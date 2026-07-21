@@ -1,0 +1,9 @@
+﻿  MainForm.cpp
+C:\Users\Marvy Ian\OneDrive\Desktop\devLab\C++\DRRMSystem\DRRMSystem\MainForm.h(56,17): warning C4068: unknown pragma 'Windows'
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\Marvy Ian\OneDrive\Desktop\devLab\C++\DRRMSystem\DRRMSystem\MainForm.h(280,17): warning C4068: unknown pragma 'enregion'
+  (compiling source file 'MainForm.cpp')
+  
+  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DRRMSystem.vcxproj -> C:\Users\Marvy Ian\OneDrive\Desktop\devLab\C++\DRRMSystem\x64\Debug\DRRMSystem.exe

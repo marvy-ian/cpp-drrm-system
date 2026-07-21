@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marvy Ian\\OneDrive\\Desktop\\devLab\\C\u002B\u002B\\DRRMSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6269D0-88ED-BC83-FA1E-A9A426F79C5E}|DRRMSystem\\DRRMSystem.vcxproj|C:\\Users\\Marvy Ian\\OneDrive\\Desktop\\devLab\\C\u002B\u002B\\DRRMSystem\\DRRMSystem\\MainForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E6269D0-88ED-BC83-FA1E-A9A426F79C5E}|DRRMSystem\\DRRMSystem.vcxproj|solutionrelative:DRRMSystem\\MainForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6269D0-88ED-BC83-FA1E-A9A426F79C5E}|DRRMSystem\\DRRMSystem.vcxproj|C:\\Users\\Marvy Ian\\OneDrive\\Desktop\\devLab\\C\u002B\u002B\\DRRMSystem\\DRRMSystem\\MainForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E6269D0-88ED-BC83-FA1E-A9A426F79C5E}|DRRMSystem\\DRRMSystem.vcxproj|solutionrelative:DRRMSystem\\MainForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6269D0-88ED-BC83-FA1E-A9A426F79C5E}|DRRMSystem\\DRRMSystem.vcxproj|C:\\Users\\Marvy Ian\\OneDrive\\Desktop\\devLab\\C\u002B\u002B\\DRRMSystem\\DRRMSystem\\MainForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{5E6269D0-88ED-BC83-FA1E-A9A426F79C5E}|DRRMSystem\\DRRMSystem.vcxproj|solutionrelative:DRRMSystem\\MainForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.h",
+              "DocumentMoniker": "C:\\Users\\Marvy Ian\\OneDrive\\Desktop\\devLab\\C\u002B\u002B\\DRRMSystem\\DRRMSystem\\MainForm.h",
+              "RelativeDocumentMoniker": "DRRMSystem\\MainForm.h",
+              "ToolTip": "C:\\Users\\Marvy Ian\\OneDrive\\Desktop\\devLab\\C\u002B\u002B\\DRRMSystem\\DRRMSystem\\MainForm.h",
+              "RelativeToolTip": "DRRMSystem\\MainForm.h",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAO0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-09T05:33:29.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cpp",
+              "DocumentMoniker": "C:\\Users\\Marvy Ian\\OneDrive\\Desktop\\devLab\\C\u002B\u002B\\DRRMSystem\\DRRMSystem\\MainForm.cpp",
+              "RelativeDocumentMoniker": "DRRMSystem\\MainForm.cpp",
+              "ToolTip": "C:\\Users\\Marvy Ian\\OneDrive\\Desktop\\devLab\\C\u002B\u002B\\DRRMSystem\\DRRMSystem\\MainForm.cpp",
+              "RelativeToolTip": "DRRMSystem\\MainForm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-09T05:33:02.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\Marvy Ian\\OneDrive\\Desktop\\devLab\\C\u002B\u002B\\DRRMSystem\\DRRMSystem\\MainForm.h",
+              "RelativeDocumentMoniker": "DRRMSystem\\MainForm.h",
+              "ToolTip": "C:\\Users\\Marvy Ian\\OneDrive\\Desktop\\devLab\\C\u002B\u002B\\DRRMSystem\\DRRMSystem\\MainForm.h [Design]",
+              "RelativeToolTip": "DRRMSystem\\MainForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-09T05:32:28.411Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

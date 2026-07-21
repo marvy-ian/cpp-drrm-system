@@ -1,0 +1,3 @@
+C:\Users\Marvy Ian\OneDrive\Desktop\devLab\C++\DRRMSystem\DRRMSystem\x64\Debug\DRRMSystem.vcxproj.AssemblyReference.cache
+C:\Users\Marvy Ian\OneDrive\Desktop\devLab\C++\DRRMSystem\DRRMSystem\x64\Debug\DRRMSystem.MainForm.resources
+C:\Users\Marvy Ian\OneDrive\Desktop\devLab\C++\DRRMSystem\DRRMSystem\x64\Debug\DRRMSystem.vcxproj.GenerateResource.cache
